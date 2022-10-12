@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+nav{
+    border: 2px solid black;
+    background-color: rgb(178, 73, 73);
+    display: flex;
+}
+
+form{
+    background-color: lightblue;
+    display: grid;
+    padding: 30px 10px 10px;
+    grid-template-columns: 50% ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bdy{
+    margin: 10px;
+}
+
+button{
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    padding:10px;
+}
